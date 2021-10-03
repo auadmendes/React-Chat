@@ -6,12 +6,12 @@ App to play alone, with friends and family. This uses the Trivia API
     <h4>Design inspired on Dribblle. Quiz Mobile App by <strong>Lokanaka</strong></h4>
     <div>
       <h2>Technologies</h2>
-      <ul>
+      <div>
         React JS
-      </ul>
-      <ul>
+      </div>
+      <div>
         JavaScript
-      </ul>
+      </div>
     </div>
   </div>
 <div class="row">
