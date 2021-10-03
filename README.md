@@ -1,18 +1,18 @@
 
 # Quiz App
-App to play alone, with friends and family. This uses the Trivia API
+Web App. Basic Chat
 <html>
   <div>
-    <h4>Design inspired on Dribblle. Quiz Mobile App by <strong>Lokanaka</strong></h4>
     <div>
       <h2>Technologies</h2>
-      <div style="color:blue;text-align:center;">sdfsdfsdfsdfsdfsdf</div>
-      <h1 style="color:blue;text-align:center;">This is a heading</h1>
       <div>
         React JS
       </div>
       <div>
         JavaScript
+      </div> 
+      <div>
+        Socket.io
       </div> 
     </div>
   </div>
