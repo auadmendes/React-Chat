@@ -14,9 +14,7 @@ Web App. Basic Chat
       <div>
         Socket.io
       </div> 
-      <div>
-            
-      </div> 
+      <div>---------------------------------------------------------------------------------------</div> 
     </div>
   </div>
 <div class="row">
