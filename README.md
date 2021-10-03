@@ -14,6 +14,9 @@ Web App. Basic Chat
       <div>
         Socket.io
       </div> 
+      <div>
+            
+      </div> 
     </div>
   </div>
 <div class="row">
@@ -24,7 +27,7 @@ Web App. Basic Chat
   <div class="column">
    
   </div>
-  <h1>Android</h1>
+  
   <div class="column">
    
   </div>
