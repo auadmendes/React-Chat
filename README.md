@@ -8,14 +8,14 @@ App to play alone, with friends and family. This uses the Trivia API
     
     <div>
       <h2>Technologies</h2>
-      <div>
+   
       <div>
         React JS
       </div>
       <div>
         JavaScript
       </div>
-      </div>
+      
     </div>
   </div>
 <div class="row">
