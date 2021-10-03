@@ -20,8 +20,8 @@ App to play alone, with friends and family. This uses the Trivia API
   </div>
 <div class="row">
   <div class="column">
-    <img src="https://user-images.githubusercontent.com/5294488/134773486-a07abe74-0a5e-44a0-b01a-5a98493d7c75.PNG" width="100">
-    <img src="https://user-images.githubusercontent.com/5294488/134773464-1593c9c4-28c3-49a2-83a6-2541bcd38e1d.PNG" width="100">
+    <img src="https://user-images.githubusercontent.com/5294488/135763905-57cafff7-01b9-42f4-b302-605abc565cc6.png" width="700px" height="500px">
+   
   </div>
   <div class="column">
    
