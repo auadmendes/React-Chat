@@ -7,14 +7,10 @@ App to play alone, with friends and family. This uses the Trivia API
     <div>
       <h2>Technologies</h2>
       <ul>
-        <li>Expo</li>
-        <li>Javascript</li>
-        <li>React Native</li>
-        <li>Hooks</li>
-        <li>Google fonts</li>
-        <li>axios</li>
-        <li>Trivia API</li>
-        <li>Styled components</li>
+        React JS
+      </ul>
+      <ul>
+        JavaScript
       </ul>
     </div>
   </div>
