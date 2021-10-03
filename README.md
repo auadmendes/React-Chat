@@ -8,7 +8,7 @@ App to play alone, with friends and family. This uses the Trivia API
     
     <div>
       <h2>Technologies</h2>
-      <div style="color:red;">
+      <div style="color:blue;text-align:center;>
       <div>
         React JS
       </div>
